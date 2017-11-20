@@ -4,9 +4,9 @@
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-* C:\Users\pavan\code\New Project.zip\New Wireframe 1.png
+*https://github.com/amudalapalli123/liftoff-assignments/blob/master/New%20Wireframe%201.png
 
-* C:\Users\pavan\code\New Project.zip\New Wireframe 2.png
+*https://github.com/amudalapalli123/liftoff-assignments/blob/master/New%20Wireframe%202.png
 
 ## Project Tracker
 
