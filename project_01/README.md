@@ -1,13 +1,7 @@
 # Capstone Project Plan
 
 ## Overview
-* Web application for small size pizza business who can afford and use the website for their small business.
-
-* The website will provide the menu details, order by phone and location details for the customers.
-
-* The website name would be 'budgetpizza.com', and it can be customized for any small size pizza business.
-
-* The idea taken from the neighborhood pizza shop who do not have a website, and was realized they were  not able to afford for a website.
+Web application for small size pizza business who can afford and use the website for their small business. The website will provide the menu details, order by phone and location details for the customers. The website name would be 'budgetpizza.com', and it can be customized for any small size pizza business. The idea taken from the neighborhood pizza shop who do not have a website, and was realized they were  not able to afford for a website.
 
 ## Features
 
