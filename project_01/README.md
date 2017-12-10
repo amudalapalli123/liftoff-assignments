@@ -31,4 +31,4 @@ Web application for small size pizza business who can afford and use the website
 
 * How to use google maps API to use the google map feature in the website?
 
-* Identify the database feature to store the testimonials for the display purpose.
+* Identify the database feature to store the testimonials for the display project.
